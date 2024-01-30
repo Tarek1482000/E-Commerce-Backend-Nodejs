@@ -1,4 +1,3 @@
 # E-Commerce-Project
 
-NodeJs
-MongoDB
+Node js - MongoDB -( Customers - Admins - Suppliers - Carts  -  Orders  - Register - Login )
