@@ -6,10 +6,8 @@ const cartSchema = new mongoose.Schema({
   },
   products: [
     {
-      _id: false, // Exclude _id for subdocuments
       productsId: {
         type: String,
-        unique: true, // Ensure uniqueness for productsId
       },
       count: {
         type: Number,
