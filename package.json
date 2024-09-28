@@ -4,7 +4,7 @@
   "description": "",
   "main": "tarek_ecomerce.js",
   "scripts": {
-    "build": "nodemon tarek_ecomerce"
+    "build": "node tarek_ecomerce"
   },
   "keywords": [],
   "author": "",
